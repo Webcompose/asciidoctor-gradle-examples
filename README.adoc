@@ -7,9 +7,14 @@ plugin in a Gradle project.
 
 == Browsing the examples
 
-You can browse the github pages to view the examples, the code, and sample output at
+Once this is configured correctly you can browse the github pages to view the examples, the code, and sample output at
 
 https://webcompose.github.io/asciidoctor-gradle-examples/
+
+IT SHOULD LOOK LIKE THIS:
+
+https://asciidoctor.github.io/asciidoctor-gradle-examples/
+
 
 == Getting the examples
 
